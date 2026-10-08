@@ -1,0 +1,8 @@
+.vercel
+.cursor
+node_modules
+.DS_Store
+*.log
+assets/*-backup*
+assets/*-old*
+assets/audio/anugerah-terindah.mp3
